@@ -7,4 +7,4 @@ USING : 1) Make 2) ./my_rpg.
 
 ![Image description](presentation.png)
 
-![Image description](illustration.png)
+![Image description](illustration.jpg)
